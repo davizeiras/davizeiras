@@ -8,15 +8,13 @@ Desenvolvo sites, sistemas web e soluções digitais para clientes e projetos in
 
 ### 🚀 Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| 💰 **Iran Solutions** | Plataforma de simulação de consórcios, lances e investimentos. |
-| 🍣 **Japa Sushi** | Cardápio digital com pedidos via WhatsApp. |
-| ⚖️ **JurisIA** | Assistente jurídico com inteligência artificial. |
-| 🌿 **Cachoeira Esmeralda** | Soluções digitais para turismo, atendimento e gestão. |
-| 💻 **DA Soluções Digitais** | [Portfólio e serviços de desenvolvimento](https://github.com/davizeiras/-da-solucoes-digitais). |
-
-*Alguns projetos ainda não possuem código público no GitHub.*
+| Projeto | Descrição | Código |
+|---|---|---|
+| 💰 **Iran Solutions** | Plataforma de simulação de consórcios, lances e investimentos. | Repositório ainda não disponibilizado |
+| 🍣 **Japa Sushi** | Cardápio digital com pedidos via WhatsApp. | [Ver projeto](https://github.com/davizeiras/japa-sushi) |
+| ⚖️ **JurisIA** | Assistente jurídico com inteligência artificial. | [Ver projeto](https://github.com/davizeiras/jurisia-chatbot) |
+| 🌿 **Cachoeira Esmeralda** | Soluções digitais para turismo, atendimento e gestão. | Repositório a vincular |
+| 💻 **DA Soluções Digitais** | Portfólio e serviços de desenvolvimento. | [Ver projeto](https://github.com/davizeiras/-da-solucoes-digitais) |
 
 ### 🛠️ Tecnologias
 
